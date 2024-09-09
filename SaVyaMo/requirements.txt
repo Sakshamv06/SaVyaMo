@@ -61,3 +61,4 @@ uritools==4.0.2
 urllib3==2.0.4
 virtualenv==20.24.2
 webencodings==0.5.1
+python-decouple==3.8
